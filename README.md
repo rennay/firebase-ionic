@@ -9,4 +9,4 @@ Applications built with Firebase and Ionic technology
 4. [Firestore Setup](firestore_setup.md)
 5. [AngularFire Setup](angularfire_setup.md)
 6. [Ionic Firebase Testing](ionic_firebase_testing.md)
-7. [Deployment]()
+7. [Deployment](deployment.md)
