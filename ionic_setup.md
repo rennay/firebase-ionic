@@ -19,10 +19,13 @@ ionic start <project> <format> --type=angular
 ionic start myApp sidemenu
 ionic start myApp tabs
 ```
+```
+ionic start firebase-ionic-simple sidemenu --type=angular
+```
 * Fire up your ionic project -
 
 ```
-cd myApp
+cd firebase-ionic-simple
 ionic serve
 ```
 * Wait until you see -
