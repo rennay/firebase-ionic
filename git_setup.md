@@ -5,6 +5,4 @@
 ```
 git clone https://github.com/rennay<repo_name>.git
 ```
----
-1. [Ionic Setup](ionic_setup.md)
-1. [Firebase Setup](firebase_setup.md)
+### [Next Step: Ionic Setup](ionic_setup.md)

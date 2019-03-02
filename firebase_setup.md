@@ -35,3 +35,5 @@ This section describes how to set up a Firebase project.
 ![Firebase Credentials](images/firebase_credentials.png)
 
 > Milestone: You have your credentials for your Firebase project
+
+### [Next Step: Firestore Setup](firestore_setup.md)

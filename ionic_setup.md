@@ -81,4 +81,5 @@ git commit -m 'Ionic'
 git push
 ```
 > Milestone: Your source code is in version control!
----
+
+### [Next Step: Firebase Setup](firebase_setup.md)

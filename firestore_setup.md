@@ -30,3 +30,5 @@ This section describes how to set up a Firestore database.
 
 ![Firestore Pencil](images/firestore_pencil_added.png)
 
+### [Next Step: AngulareFire Setup](angularfire_setup.md)
+

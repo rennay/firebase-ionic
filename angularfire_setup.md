@@ -152,3 +152,5 @@ In /src/app/home/home.page.html, add the following before the **ion-content** ta
 
 ### 3.2. Run your app
 ng serve
+
+### [Next Step: Ionic Firebase Testing](ionic_firebase_testing.md)
