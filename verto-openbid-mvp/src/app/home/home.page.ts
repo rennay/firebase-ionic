@@ -8,7 +8,6 @@ import { Observable } from 'rxjs';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
   items: Observable<any[]>;
   constructor(db: AngularFirestore) {
     this.items = db.collection('items').valueChanges();
