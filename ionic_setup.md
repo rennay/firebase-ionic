@@ -53,6 +53,9 @@ http://<x.x.x.x>:8100
 
 ### Ionic Devapp
 * You can also use the [Ionic DevApp](https://ionicframework.com/docs/appflow/devapp/) to test your application on your mobile device.
+* As you will notice from the image below, there is no browser address bar.  This is how you "App" will render or present itself on a mobile device.
+
+![Ionic DevApp](images/ionic_start_sidemenu_devapp.jpeg)
 
 > Milestone: Ionic App running!
 

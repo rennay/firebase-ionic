@@ -1,8 +1,6 @@
-# Ionic Setup and Testing
-
 # Firebase Setup
 
-This section describes how to set up a Firebase project, then connect your Application to it.
+This section describes how to set up a Firebase project.
 
 ## Create a Firebase project
 * Navigate to [Firebase](https://console.firebase.google.com)
