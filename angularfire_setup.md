@@ -1,10 +1,10 @@
 # AngularFire
 
-## Configuration
+## 1. Configuration
 
 The following has been adapted from the [AngularFire Installation and Setup Page](https://github.com/angular/angularfire2/blob/master/docs/install-and-setup.md)
 
-### Add Firebase config to environments variable
+### 1.1. Add Firebase config to environments variable
 
 Open /src/environments/environment.ts and add your Firebase configuration. We found the project configuration in [Firebase Setup](firebase_setup.md).
 
@@ -22,7 +22,7 @@ export const environment = {
 };
 ```
 
-###  Setup @NgModule for the AngularFireModule
+### 1.2. Setup @NgModule for the AngularFireModule
 
 Open /src/app/app.module.ts, inject the Firebase providers, and specify your Firebase configuration.
 
@@ -46,7 +46,7 @@ import { environment } from '../environments/environment';
   ]
 ```
 
-### Setup individual @NgModules
+### 1.3. Setup individual @NgModules
 
 For this tutorial, we will only need the following module(s):
 
@@ -110,9 +110,9 @@ export class AppModule {}
 ```
 > Milestone: You've configured AngularFire and Ionic to co-exist with each other.
 
-## Testing - Bind a Firestore collection to a list
+## 2. Testing - Bind a Firestore collection to a list
 
-### Inject AngularFirestore
+### 2.1. Inject AngularFirestore
 Open /src/app/home/home.page.ts and add the following:
 
 * Imports
@@ -142,5 +142,5 @@ In /src/app/home/home.page.html, add the following before the *</ion-content>* t
 </ul>
 ```
 
-### Run your app
+### 2.2. Run your app
 ng serve

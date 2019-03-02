@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# Environment Files
+verto-openbid-mvp/src/environments/environment.ts
+firebase-ionic-simple/src/environments/environment.ts
+
