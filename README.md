@@ -10,7 +10,7 @@ Applications built with Firebase and Ionic technology
 ```
 git clone https://github.com/rennay<repo_name>.git
 ```
-
+---
 ## Ionic
 
 ### Set Up
@@ -62,10 +62,29 @@ http://<x.x.x.x>:8100
 
 ![alt text](images/ionic_start_sidemeenu_mobile.jpeg)
 
-
 #### Ionic Devapp
+* You can also use the [Ionic DevApp](https://ionicframework.com/docs/appflow/devapp/) to test your application on your mobile device.
 
+> Milestone: Ionic App running!
 
-
-
+### Get your code into Git
+* Get into the practice of checking your code into version control.
+* To see a list of files which have changed, run
+```
+git status
+```
+* To add files in, run the following:
+```
+git add .
+```
+* To commit the files to your "local" version control -
+```
+git commit -m 'Ionic'
+```
+* To push the files to your git repo (which we cloned from at the beginning), run:
+```
+git push
+```
+> Milestone: Your source code is in version control!
+---
 ## Firebase
