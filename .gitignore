@@ -61,6 +61,8 @@ typings/
 .next
 
 # Environment Files
-verto-openbid-mvp/src/environments/environment.ts
-firebase-ionic-simple/src/environments/environment.ts
+/verto-openbid-mvp/src/environments/environment.ts
+/verto-openbid-mvp/src/environments/environment.prod.ts
+/firebase-ionic-simple/src/environments/environment.ts
+/firebase-ionic-simple/src/environments/environment.prod.ts
 
