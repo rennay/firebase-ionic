@@ -1,9 +1,4 @@
-# firebase-ionic
-Applications built with Firebase and Ionic technology
-
-# Instructions
-
-## Git
+# Git
 * Set up a new Git (GitHub) repo
 * Clone the repo to your local machine
 
@@ -11,6 +6,5 @@ Applications built with Firebase and Ionic technology
 git clone https://github.com/rennay<repo_name>.git
 ```
 ---
-1. [Git Setup](git_setup.md)
 1. [Ionic Setup](ionic_setup.md)
-2. [Firebase Setup](firebase_setup.md)
+1. [Firebase Setup](firebase_setup.md)
